@@ -1,4 +1,4 @@
-# Lyft Real-Time Stock Analytics Pipeline
+# Lyft Near Real-Time Stock Analytics Pipeline
 
 <p align="center">
   <img src="assets/what-is-lyft-qz-900x506.jpg" alt="Lyft" width="500">
