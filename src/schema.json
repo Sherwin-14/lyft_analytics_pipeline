@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "symbol",
+    "Type": "string"
+  },
+  {
+    "Name": "timestamp",
+    "Type": "string"
+  },
+  {
+    "Name": "open",
+    "Type": "double"
+  },
+  {
+    "Name": "high",
+    "Type": "double"
+  },
+  {
+    "Name": "low",
+    "Type": "double"
+  },
+  {
+    "Name": "price",
+    "Type": "double"
+  },
+  {
+    "Name": "previous_close",
+    "Type": "double"
+  },
+  {
+    "Name": "volume",
+    "Type": "bigint"
+  }
+]
